@@ -6,6 +6,7 @@ public class TP1 {
         
         Scanner sc = new Scanner (System.in);
         
+        System.out.println ("PROBANDO GIT");
         String raza;
         String rp;
         
